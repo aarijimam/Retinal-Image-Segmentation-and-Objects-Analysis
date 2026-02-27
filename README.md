@@ -1,4 +1,4 @@
-# Assignment 2: Fundus Image Analysis
+# Fundus Image Analysis
 
 ## Overview
 This project focuses on the analysis of fundus images for the detection and localization of optic disc centers and blood vessels. The workflow includes data preprocessing, image segmentation, and result visualization. The project is structured to facilitate experimentation and reproducibility using Jupyter Notebooks.
