@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Data and output files
+Output/
+Output2/
+Output3/
+output1.txt
+
+# Drawio files
+*.drawio
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# Misc
+*.log
+*.bak
+*.tmp
+
+# Ignore original data if needed
+Data_OG/
